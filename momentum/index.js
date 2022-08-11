@@ -220,7 +220,7 @@ prevBtn.addEventListener('click', playPrev);
 
 function playAudio() {
   audio.play();
-  playBtn.style.backgroundImage = `url(../assets/svg/pause.svg)`;
+  playBtn.style.backgroundImage = `url(assets/svg/pause.svg)`;
   isPlay = true;
   if(playNum === 0){
     liNum[0].classList.add('item-active');

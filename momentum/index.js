@@ -229,7 +229,7 @@ function playAudio() {
 
 function pauseAudio() {
   audio.pause();
-  playBtn.style.backgroundImage = `url(../assets/svg/play.svg)`;
+  playBtn.style.backgroundImage = `url(assets/svg/play.svg)`;
   isPlay = false;
 }
 

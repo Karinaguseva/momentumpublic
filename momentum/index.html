@@ -42,12 +42,11 @@
           <input type="text" class="todo-descrip">
         </div>
         <div class="button-wrapper">
-          <button class="todo-btn">Add</button>
+          <button class="todo-btn langbtn"></button>
         </div>
       </div>
-      <h2 class="title-todo">Tasks</h2>
-      <div class="todos-wrapper">
-      </div>
+      <h2 class="title-todo"></h2>
+      <div class="todos-wrapper"></div>
     </div>
     <div class="weather">
       <input type="text" class="city" data-i18="city" />
@@ -75,9 +74,51 @@
   </main>
   <footer class="footer">
     <button class="change-quote"></button>
-    <div>
+    <div class = quote-container>
       <div class="quote"></div>
       <div class="author"></div>
+    </div>
+    <button class="settings-btn"></button>
+    <div class="settings-wrapper">
+      <div class="settings-container">
+        <div class="mini-container">
+          <p class="setting-title setting-clock"></p>
+          <input type="checkbox" name="clock" class="slider-btn" id="clock"></input>
+        </div>
+        <div class="mini-container">
+          <p class="setting-title setting-date"></p>
+          <input type="checkbox" name="date" class="slider-btn" id="datecheck"></input>
+        </div>
+        <div class="mini-container">
+          <p class="setting-title setting-greeting"></p>
+          <input type="checkbox" name="greeting" class="slider-btn" id="greeting"></input>
+        </div>
+        <div class="mini-container">
+          <p class="setting-title setting-weather"></p>
+          <input type="checkbox" name="weather" class="slider-btn" id="weather"></input>
+        </div>
+        <div class="mini-container">
+          <p class="setting-title setting-player"></p>
+          <input type="checkbox" name="player" class="slider-btn" id="player"></input>
+        </div>
+        <div class="mini-container">
+          <p class="setting-title setting-quotes"></p>
+          <input type="checkbox" name="quotes" class="slider-btn" id="quotes"></input>
+        </div>
+        <div class="mini-container">
+          <p class="setting-title setting-todo"></p>
+          <input type="checkbox" name="todo list" class="slider-btn" id="todo"></input>
+        </div>
+        <select class="select">
+          <option selected>GitHub</option>
+          <option>Unsplash</option>
+          <option>Flickr</option>
+        </select>
+        <div class="mini-container">
+          <p class="setting-title setting-language"></p>
+          <div class="item-lang"></div>
+        </div>
+      </div>
     </div>
   </footer>
   <script type="module" src="./index.js"></script>

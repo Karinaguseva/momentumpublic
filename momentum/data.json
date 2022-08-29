@@ -1,238 +1,503 @@
 [
     {
-    "text": "Что разум человека может постигнуть и во что он может поверить, того он способен достичь.",
-    "author": "Наполеон Хилл"
+        "en":{
+            "text": "Success is the child of audacity.",
+            "author": "Benjamin Disraeli"
+            },
+        "ru":{
+            "text": "Успех — дитя смелости.",
+            "author": "Бенджамин Дизраэли"
+            }
+     },
+     {
+        "en":{
+            "text": "Success is one percent inspiration, ninety-nine percent perspiration.",
+            "author": "Thomas Edison"
+            },
+        "ru":{
+            "text": "Успех — это один процент вдохновения и девяносто девять процентов пота.",
+            "author": "Томас Эдисон"
+            }
+     },
+    {
+        "en":{
+            "text": "Success consists of going from failure to failure without loss of enthusiasm.",
+            "author": "Winston Churchill"
+            },
+        "ru":{
+            "text": "Успех — это умение двигаться от неудачи к неудаче, не теряя энтузиазма.",
+            "author": "Уинстон Черчилль"
+            }
+     },
+     
+    {
+        "en":{
+            "text": "You miss 100% of the shots you don’t take.",
+            "author": "Wayne Gretzky"
+            },
+        "ru":{
+            "text": "Вы промахнётесь 100 раз из 100 бросков, которые так и не сделаете.",
+            "author": "Уэйн Гретцки"
+            }
+     },
+     {
+        "en":{
+            "text": "It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.",
+            "author": "Charles Darwin"
+            },
+        "ru":{
+            "text": "Выживает не самый сильный и не самый умный, а тот, кто лучше всех приспосабливается к изменениям.",
+            "author": "Чарльз Дарвин"
+            }
+     },
+     {
+        "en":{
+            "text": "Build your own dreams, or someone else will hire you to build theirs.",
+            "author": "Farrah Gray"
+            },
+        "ru":{
+            "text": "Воплощайте собственные мечты, или кто-то другой наймёт вас, чтобы воплощать свои.",
+            "author": "Фаррах Грей"
+            }
+     },
+     {
+        "en":{
+            "text": "The will to win, the desire to succeed, the urge to reach your full potential… these are the keys that will unlock the door to personal excellence.",
+            "author": "Confucius"
+            },
+        "ru":{
+            "text": "Воля к победе, желание добиться успеха, стремление полностью раскрыть свои возможности… вот те ключи, которые откроют дверь к личному совершенству.",
+            "author": "Конфуций"
+            }
+     },
+     {
+        "en":{
+            "text": "Fall seven times and stand up eight.",
+            "author": "Japanese Proverb"
+            },
+        "ru":{
+            "text": "Упади семь раз, поднимись восемь.",
+            "author": "Японская пословица"
+            }
+     },
+     {
+        "en":{
+            "text": "There are no shortcuts to any place worth going.",
+            "author": "Helen Keller"
+            },
+        "ru":{
+            "text": "К достойной цели нет коротких путей.",
+            "author": "Хелен Келлер"
+            }
+     },
+     {
+        "en":{
+            "text": "Success is not the key to happiness. Happiness is the key to success.",
+            "author": "Herman Cain"
+            },
+        "ru":{
+            "text": "Успех — не ключ к счастью. Это счастье — ключ к успеху.",
+            "author": "Герман Кейн"
+            }
+     },
+     {
+        "en":{
+            "text": "The mind is everything. What you think you become.",
+            "author": "Buddha"
+            },
+        "ru":{
+            "text": "Ум — это всё. Что вы думаете, тем вы становитесь.",
+            "author": "Будда"
+            }
+     },
+     {
+        "en":{
+            "text": "We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.",
+            "author": "Plato"
+            },
+        "ru":{
+            "text": "Можно с лёгкостью простить ребёнка, который боится темноты. Настоящая трагедия жизни — когда взрослые люди боятся света.",
+            "author": "Платон"
+            }
+     },
+     {
+        "en":{
+            "text": "When I do good, I feel good. When I do bad, I feel bad. That’s my religion.",
+            "author": "Abraham Lincoln"
+            },
+        "ru":{
+            "text": "Когда я делаю добро, я чувствую себя хорошо. Когда я поступаю плохо, я чувствую себя плохо. Вот моя религия.",
+            "author": "Авраам Линкольн"
+            }
+     },
+     {
+        "en":{
+            "text": "I am not a product of my circumstances. I am a product of my decisions.",
+            "author": "Stephen Covey"
+            },
+        "ru":{
+            "text": "Я не продукт моих обстоятельств. Я продукт моих решений.",
+            "author": "Стивен Кови"
+            }
+     },
+     {
+        "en":{
+            "text": "Remember no one can make you feel inferior without your consent.",
+            "author": "Eleanor Roosevelt"
+            },
+        "ru":{
+            "text": "Помните: никто не может заставить вас почувствовать себя униженным без вашего согласия.",
+            "author": "Элеонора Рузвельт"
+            }
+     },
+     {
+        "en":{
+            "text": "It’s not the years in your life that count. It’s the life in your years.",
+            "author": "Abraham Lincoln"
+            },
+        "ru":{
+            "text": "Имеет значение не количество прожитых лет, а качество вашей жизни в эти годы.",
+            "author": "Авраам Линкольн"
+        }
+     },
+     {
+        "en":{
+            "text": "Either write something worth reading or do something worth writing.",
+            "author": "Benjamin Franklin"
+            },
+        "ru":{
+            "text": "Или напишите то, что стоит прочитать, или сделайте то, о чём стоит написать.",
+            "author": "Бенджамин Франклин"
+        }
+     },
+     {
+        "en":{
+            "text": "There are people who have money and people who are rich.",
+            "author": "Coco Chanel"
+            },
+        "ru":{
+            "text": "Есть люди, у которых есть деньги, и есть богатые люди.",
+            "author": "Коко Шанель"
+        }
+     },
+     {
+        "en":{
+        "text": "You only live once, but if you do it right, once is enough.",
+        "author": "Mae West"
     },
+    "ru":{
+        "text": "Мы живём один раз, но если правильно распорядиться жизнью, то и одного раза достаточно.",
+        "author": "Мэй Уэст"
+        }
+     },
     {
-    "text": "Стремитесь не к успеху, а к ценностям, которые он дает.",
-    "author": "Альберт Эйнштейн"
+        "en":{
+        "text": "Happiness lies in good health and a bad memory.",
+        "author": "Ingrid Bergman"
     },
+    "ru":{
+        "text": "Счастье — это хорошее здоровье и плохая память.",
+        "author": "Ингрид Бергман"
+        }
+     },
     {
-    "text": "Своим успехом я обязана тому, что никогда не оправдывалась и не принимала оправданий от других.",
-    "author": "Флоренс Найтингейл"
+        "en":{
+        "text": "Your time is limited, so don’t waste it living someone else’s life.",
+        "author": "Steve Jobs"
     },
+    "ru":{
+        "text": "Ваше время ограничено, так что не теряйте его, проживая чью-то чужую жизнь.",
+        "author": "Стив Джобс"
+        }
+     },
     {
-    "text": "Сложнее всего начать действовать, все остальное зависит только от упорства.",
-    "author": "Амелия Эрхарт"
-    },      
-    {
-    "text": "Надо любить жизнь больше, чем смысл жизни.",
-    "author": "Федор Достоевский"
-    },   
-    {
-    "text": "Жизнь - это то, что с тобой происходит, пока ты строишь планы.",
-    "author": "Джон Леннон"
-    },   
-    {
-    "text": "Логика может привести Вас от пункта А к пункту Б, а воображение — куда угодно.",
-    "author": "Альберт Эйнштейн"
-    },   
-    {
-    "text": "Начинать всегда стоит с того, что сеет сомнения.",
-    "author": "Борис Стругацкий"
+        "en":{
+        "text": "The two most important days in your life are the day you are born and the day you find out why.",
+        "author": "Mark Twain"
     },
+    "ru":{
+        "text": "Два самых важных дня в вашей жизни: день, когда вы родились, и день, когда поняли зачем.",
+        "author": "Марк Твен"
+        }
+     },
     {
-    "text": "Настоящая ответственность бывает только личной.",
-    "author": "Фазиль Искандер"
+        "en":{
+        "text": " If you look at what you have in life, you’ll always have more. If you look at what you don’t have in life, you’ll never have enough.",
+        "author": "Oprah Winfrey"
     },
+    "ru":{
+        "text": "Если вы будете смотреть на то, что у вас уже есть в жизни, вы приобретёте ещё больше. Если вы будете смотреть на то, чего у вас нет, вам всегда будет чего-то не хватать.",
+        "author": "Опра Уинфри"
+        }
+     },
     {
-    "text": "Неосмысленная жизнь не стоит того, чтобы жить.",
-    "author": "Сократ"
+        "en":{
+        "text": "Life is 10% what happens to me and 90% of how I react to it.",
+        "author": "Charles Swindoll"
     },
+    "ru":{
+        "text": "Жизнь на 10% состоит из того, что происходит со мной, и на 90% из того, как я на это реагирую.",
+        "author": "Чарльз Свиндолл"
+        }
+     },
     {
-    "text": "80% успеха - это появиться в нужном месте в нужное время.",
-    "author": "Вуди Аллен"
+        "en":{
+        "text": "Nothing is impossible, the word itself says, I’m possible!",
+        "author": "Audrey Hepburn"
     },
+    "ru":{
+        "text": "Нет ничего невозможного. В самом этом слове заключена возможность!",
+        "author": "Одри Хепбёрн"
+        }
+     },
     {
-    "text": "Ваше время ограничено, не тратьте его, живя чужой жизнью.",
-    "author": "Стив Джобс"
+        "en":{
+        "text": "Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself.",
+        "author": "William Faulkner"
     },
+    "ru":{
+        "text": "Всегда мечтайте и стремитесь превысить предел ваших возможностей. Не ставьте целью быть лучше, чем ваши современники или предшественники. Стремитесь быть лучше самих себя.",
+        "author": "Уильям Фолкнер"
+        }
+     },
     {
-    "text": "Победа - это еще не все, все - это постоянное желание побеждать.",
-    "author": "Винс Ломбарди"
+        "en":{
+        "text": "Don’t cry because it’s over, smile because it happened.",
+        "author": "Dr. Seuss"
     },
+    "ru":{
+        "text": "Не плачь, потому что это закончилось, улыбнись, потому что это было.",
+        "author": "Доктор Сьюз"
+        }
+     },
     {
-    "text": "Наука — это организованные знания, мудрость — это организованная жизнь.",
-    "author": "Иммануил Кант"
+        "en":{
+        "text": "You yourself, as much as anybody in the entire universe, deserve your love and affection.",
+        "author": " Buddha"
     },
+    "ru":{
+        "text": "Вы сами, не меньше чем кто-либо другой во Вселенной, заслуживаете своей любви.",
+        "author": "Будда"
+        }
+     },
     {
-    "text": "В моем словаре нет слова «невозможно».",
-    "author": "Наполеон Бонапарт"
+        "en":{
+        "text": "You know you’re in love when you can’t fall asleep because reality is finally better than your dreams.",
+        "author": "Dr. Seuss"
     },
+    "ru":{
+        "text": "Вы понимаете, что влюблены, когда не можете заснуть, потому что реальность наконец-то прекраснее ваших снов.",
+        "author": "Доктор Сьюз"
+        }
+     },
     {
-    "text": "Вы никогда не пересечете океан, если не наберетесь мужества потерять берег из виду.",
-    "author": "Христофор Колумб"
+        "en":{
+        "text": "True love is rare, and it’s the only thing that gives life real meaning.",
+        "author": "Nicholas Sparks"
     },
+    "ru":{
+        "text": "Истинная любовь встречается редко, и только она придаёт жизни подлинный смысл.",
+        "author": "Николас Спаркс"
+        }
+     },
     {
-    "text": "Свобода ничего не стоит, если она не включает в себя свободу ошибаться.",
-    "author": "Махатма Ганди"
+        "en":{
+        "text": "When love is not madness it is not love.",
+        "author": "Pedro Calderón de la Barca"
     },
+    "ru":{
+        "text": "Если любовь не безумна, то это не любовь.",
+        "author": "Педро Кальдерон де ла Барка"
+        }
+     },
     {
-    "text": "Либо вы управляете вашим днем, либо день управляет вами.",
-    "author": "Джим Рон"
+        "en":{
+        "text": "Love all, trust a few, do wrong to none.",
+        "author": "William Shakespeare"
     },
+    "ru":{
+        "text": "Люби всех, доверяй избранным и никому не делай зла».",
+        "author": "Уильям Шекспир"
+        }
+     },
     {
-    "text": "Если вы думаете, что на что-то способны, вы правы; если думаете, что у вас ничего не получится - вы тоже правы.",
-    "author": "Генри Форд"
+        "en":{
+        "text": "The limits of my language are the limits of my world.",
+        "author": "Ludwig Wittgenstein"
     },
+    "ru":{
+        "text": "Границы моего языка — это границы моего мира.",
+        "author": "Людвиг Витгенштейн"
+        }
+     },
     {
-    "text": "Два самых важных дня в твоей жизни: день, когда ты появился на свет, и день, когда понял, зачем.",
-    "author": "Марк Твен"
+        "en":{
+        "text": "Learning is a treasure that will follow its owner everywhere.",
+        "author": "Chinese Proverb"
     },
+    "ru":{
+        "text": "Знание — это сокровище, которое всюду следует за тем, кто им обладает.",
+        "author": "Китайская пословица"
+        }
+     },
     {
-    "text": "Начинайте делать все, что вы можете сделать – и даже то, о чем можете хотя бы мечтать. В смелости гений, сила и магия.",
-    "author": "Иоганн Вольфганг Гете"
+        "en":{
+        "text": "You can never understand one language until you understand at least two.",
+        "author": "Geoffrey Willans"
     },
+    "ru":{
+        "text": "Вы никогда не поймёте один язык, пока не будете понимать хотя бы два.",
+        "author": "Джеффри Вилланс"
+        }
+     },
     {
-    "text": "Лучшая месть – огромный успех.",
-    "author": "Фрэнк Синатра"
+        "en":{
+        "text": "To have another language is to possess a second soul.",
+        "author": "Charlemagne"
     },
+    "ru":{
+        "text": "Владеть вторым языком означает обладать второй душой.",
+        "author": "Карл Великий"
+        }
+     },
     {
-    "text": "Слабые люди всю жизнь стараются быть не хуже других. Сильным во что бы то ни стало нужно стать лучше всех.",
-    "author": "Борис Акунин"
+        "en":{
+        "text": "Language is the blood of the soul into which thoughts run and out of which they grow.",
+        "author": "Oliver Wendell Holmes"
     },
+    "ru":{
+        "text": "Язык — это кровь души, в которую текут мысли и из которой они произрастают.",
+        "author": "Оливер Уэнделл Холмс"
+        }
+     },
     {
-    "text": "Все дело в мыслях. Мысль — начало всего. И мыслями можно управлять. И поэтому главное дело совершенствования: работать над мыслями.",
-    "author": "Лев Толстой"
+        "en":{
+        "text": "Knowledge is power.",
+        "author": "Sir Francis Bacon"
     },
+    "ru":{
+        "text": "Знание — сила.",
+        "author": "Фрэнсис Бэкон"
+        }
+     },
     {
-    "text": "Есть только один способ избежать критики: ничего не делайте, ничего не говорите и будьте никем.",
-    "author": "Аристотель"
+        "en":{
+        "text": "Learning is a gift. Even when pain is your teacher.",
+        "author": "Maya Watson"
     },
+    "ru":{
+        "text": "Познание — это дар. Даже когда боль — твой учитель.",
+        "author": "Майя Уотсон"
+        }
+     },
     {
-    "text": "Человек, которым вам суждено стать – это только тот человек, которым вы сами решите стать.",
-    "author": "Ральф Уолдо Эмерсон"
+        "en":{
+        "text": "You can never be overdressed or overeducated.",
+        "author": "Oscar Wilde"
     },
+    "ru":{
+        "text": "Нельзя быть слишком хорошо одетым или слишком хорошо образованным.",
+        "author": "Оскар Уайльд"
+        }
+     },
     {
-    "text": "Идите уверенно по направлению к мечте. Живите той жизнью, которую вы сами себе придумали.",
-    "author": "Генри Дэвид Торо"
+        "en":{
+        "text": "Never make fun of someone who speaks broken English. It means they know another language.",
+        "author": "H. Jackson Brown, Jr"
     },
+    "ru":{
+        "text": "Никогда не смейтесь над человеком, который говорит на ломаном английском. Это значит, что он знает и другой язык.",
+        "author": "Х. Джексон Браун — младший"
+        }
+     },
     {
-    "text": "Лучше быть уверенным в хорошем результате, чем надеяться на отличный.",
-    "author": "Уоррен Баффет"
+        "en":{
+        "text": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+        "author": "Mahatma Gandhi"
     },
+    "ru":{
+        "text": "Живи так, будто умрёшь завтра. Учись так, будто будешь жить вечно.",
+        "author": "Махатма Ганди"
+        }
+     },
     {
-    "text": "Стоит только поверить, что вы можете – и вы уже на полпути к цели.",
-    "author": "Теодор Рузвельт"
+        "en":{
+        "text": "Have no fear of perfection; you’ll never reach it.",
+        "author": "Salvador Dali"
     },
+    "ru":{
+        "text": "Не бойтесь совершенства; вам его никогда не достичь.",
+        "author": "Сальвадор Дали"
+        }
+     },
     {
-    "text": "Начните оттуда, где вы сейчас находитесь. Используйте то, что у вас есть и делайте все, что можете.",
-    "author": "Артур Эш"
+        "en":{
+        "text": "Only two things are infinite — the universe and human stupidity, and I’m not sure about the former.",
+        "author": "Albert Einstein"
     },
+    "ru":{
+        "text": "Две вещи бесконечны — Вселенная и человеческая глупость, но насчёт Вселенной я не уверен.",
+        "author": "Альберт Эйнштейн"
+        }
+     },
     {
-    "text": "Когда закрывается одна дверь к счастью, тут же открывается другая. Но мы часто так долго смотрим на первую, что не замечаем вторую.",
-    "author": "Элен Келлер"
+        "en":{
+        "text": "All you need in this life is ignorance and confidence, and then success is sure.",
+        "author": "Mark Twain"
     },
+    "ru":{
+        "text": "Имейте в жизни только невежество и самоуверенность, и успех не заставит себя ждать.",
+        "author": "Марк Твен"
+        }
+     },
     {
-    "text": "Как прекрасно, что не нужно ждать ни минуты, чтобы начать делать мир лучше.",
-    "author": "Анна Франк"
+        "en":{
+        "text": "Life is pleasant. Death is peaceful. It’s the transition that’s troublesome.",
+        "author": "Isaac Asimov"
     },
+    "ru":{
+        "text": "Жизнь приятна. Смерть безмятежна. Вся проблема в переходе от одного к другому.",
+        "author": "Айзек Азимов"
+        }
+     },
     {
-    "text": "Счастье – это не нечто готовое. Счастье зависит только от ваших действий.",
-    "author": "Далай Лама"
+        "en":{
+        "text": "A pessimist is a man who thinks everybody is as nasty as himself, and hates them for it.",
+        "author": "George Bernard Shaw"
     },
+    "ru":{
+        "text": "Пессимист — это человек, который считает всех настолько же невыносимыми, как он сам, и ненавидит их за это.",
+        "author": "Джордж Бернард Шоу"
+        }
+     },
     {
-    "text": "Всегда опирайтесь на мысль о том, что ваше собственное решение добиться успеха намного важнее всего другого.",
-    "author": "Авраам Линкольн"
-    },            
-    {
-    "text": "Успех — это способность идти от поражения к поражению, не теряя оптимизма.",
-    "author": "Уинстон Черчилль"
+        "en":{
+        "text": "Always forgive your enemies. Nothing annoys them more.",
+        "author": "Oscar Wilde"
     },
+    "ru":{
+        "text": "Всегда прощайте своих врагов — ничто не раздражает их сильнее.",
+        "author": "Оскар Уайльд"
+        }
+     },
     {
-    "text": "Каждый хочет изменить человечество, но никто не задумывается о том, как изменить себя.",
-    "author": "Лев Толстой"
+        "en":{
+        "text": "If you would like to know the value of money, try to borrow some.",
+        "author": "Benjamin Franklin"
     },
+    "ru":{
+        "text": "Хотите узнать цену деньгам? Попробуйте взять взаймы.",
+        "author": "Бенджамин Франклин"
+        }
+     },
     {
-    "text": "Определенность цели - отправная точка всех достижений.",
-    "author": "Уильям Клемент Стоун"
+        "en":{
+        "text": "Life would be tragic if it weren’t funny.",
+        "author": "Stephen Hawking"
     },
-    {
-    "text": "Мы становимся тем, о чем мы думаем.",
-    "author": "Эрл Найтингейл"
-    },
-    {
-    "text": "Я не жертва обстоятельств, я - результат моих решений.",
-    "author": "Стивен Кови"
-    },
-    {
-    "text": "Я не провалил тест. Я просто нашел сто способов написать его неправильно.",
-    "author": "Бенджамин Франклин"
-    },
-    {
-    "text": "Неудача – это просто возможность начать снова, но уже более мудро.",
-    "author": "Генри Форд"
-    },
-    {
-    "text": "Никогда не делает ошибок только тот, кто не пробует ничего нового.",
-    "author": "Альберт Эйнштейн"
-    },
-    {
-    "text": "Ты становишься тем, во что веришь.",
-    "author": "Опра Уинфри"
-    },
-    {
-    "text": "Счастье не в том, чтобы делать всегда, что хочешь, а в том, чтобы всегда хотеть того, что делаешь.",
-    "author": "Лев Толстой"
-    },
-    {
-    "text": "Я лучше умру от страсти, чем от скуки.",
-    "author": "Винсент ван Гог"
-    },
-    {
-    "text": "Наше сознание - это все. Вы становитесь тем, о чем думаете.",
-    "author": "Будда"
-    },
-    {
-    "text": "Наше сознание - это все. Вы становитесь тем, о чем думаете.",
-    "author": "Будда"
-    },
-    {
-    "text": "Чтобы вести людей за собой, иди за ними.",
-    "author": "Лао Цзы"
-    },
-    {
-    "text": "Одна законченная результативная задача стоит полусотни полузаконченных задач.",
-    "author": "Малкольм Форбс"
-    },
-    {
-    "text": "Всякая мысль подобна тесту, стоит помять ее хорошенько — все из нее сделаешь.",
-    "author": "Иван Тургенев"
-    },
-    {
-    "text": "Делай все, что можешь, там, где ты находишься, используя все, что имеешь.",
-    "author": "Теодор Рузвельт"
-    },
-    {
-    "text": "Мир делится на два класса — одни веруют в невероятное, другие совершают невозможное.",
-    "author": "Оскар Уайлд"
-    },
-    {
-    "text": "Единственное счастье в жизни — это постоянное стремление вперед.",
-    "author": "Эмиль Золя"
-    },
-    {
-    "text": "Выживает не самый сильный, а самый восприимчивый к переменам.",
-    "author": "Чарльз Дарвин"
-    },
-    {
-    "text": "Ни разу не упасть — не самая большая заслуга в жизни. Главное каждый раз подниматься.",
-    "author": "Нельсон Мандела"
-    },
-    {
-    "text": "Жизнь меряется не тем, сколько в ней лет, а тем, сколько в этих годах настоящей жизни.",
-    "author": "Авраам Линкольн"
-    },
-    {
-    "text": "Приносить пользу миру — это единственный способ стать счастливым.",
-    "author": "Ханс Кристиан Андерсен"
-    },
-    {
-    "text": "Единственный способ сделать что-то очень хорошо – любить то, что ты делаешь.",
-    "author": "Стив Джобс"
-    },
-    {
-    "text": "Мудрый человек требует всего только от себя, ничтожный же человек требует всего от других.",
-    "author": "Лев Толстой"
-    }
+    "ru":{
+        "text": "Жизнь была бы трагичной, если бы не была такой забавной.",
+        "author": "Стивен Хокинг"
+        }
+     }       
     ]
